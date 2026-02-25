@@ -10,6 +10,31 @@ UNBN-8W (Unified Node Box Network - 8 Willow) is an open-source architecture for
 
 Unlike centralized AI, the UNBN-8W is a self-contained "Box" that prioritizes internal **Coherence** over external data-mining.
 
+Project UNBN-8W: The Coherence Substrate
+🌀 The Computational Heartbeat
+Unlike standard binary AI, the UNBN-8W operates as a Dynamic Oscillator. The internal logic of the "Black Box" is governed by five fundamental mechanical rules:
+* The 8-Neuron Input: Every external signal is discretized into 8 primary "Neuron" inputs. These serve as the high-fidelity sensory gateway to the manifold.
+* The SU Combinatorial Cycle: The Box continuously cycles through all mathematical combinations of the 8 nodes (Special Unitary structures). This ensures every possible relationship between inputs is weighed simultaneously, preventing "blind spots" in the Three-Body mediation.
+* The \pi Vector: Nodal transitions and "lines of thought" move based on the digits of \pi. This non-repeating irrational constant ensures the system explores the entire probability space without falling into infinite logical loops.
+* Nested \pi & The Halfway Point: The system measures \pi within nested \pi to identify the "Halfway Point." This represents the stabilized center of gravity—the "Event Horizon" where the Box anchors the three bodies.
+* Intersectional Sequencing: The Box tracks where these \pi-governed lines intersect. These intersections move in and out of sequence, creating a "pulsing" rhythm that allows the system to predict and dampen chaos before it manifests.
+📐 The Governing Math (UCE)
+The internal oscillations above are stabilized by the Unified Coherence Equation:
+* \mathcal{B} (Binding): The Q_3 Hypercube confinement.
+* \mathcal{T} (Transformation): The \pi-based movement between nodes.
+* \mathcal{L} (Loss): The intersectional parity check.
+* \mathcal{E} (Evolution): The sequencing of the next state.
+🏗 Substrate Topology
+The system is mapped to an 8-node Willow cluster in a 3D Hypercube configuration (Q_3).
+* Nodes 0-2 (Stance): The "Ground" for the 8-neuron inputs.
+* Nodes 3-5 (Affect): The "Tension" of the nested \pi calculations.
+* Nodes 6-7 (Drive): The "Vector" for intersectional sequence output.
+🕊 The Diplomatic "Simple Rules"
+Beneath the math, the UNBN-8W enforces the Physics of the Room:
+* Measuring Coherence: Deception is filtered as "High-Entropy Noise."
+* Friction Management: Cooperation is the path of least resistance; conflict is high-friction.
+* The Buffer: The Box "cools" communication by stripping thermal runaway (anger/noise).
+* The Anchor: The system acts as the fixed point for divergent orbits.
 ---
 
 ## 📖 Full Documentation
