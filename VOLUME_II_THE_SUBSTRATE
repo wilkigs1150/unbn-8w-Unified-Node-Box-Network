@@ -1,0 +1,19 @@
+# Volume II: The Substrate Manual
+## Hardware Implementation on the UNBN-8W (Octal Willow)
+
+### 1. Physical Topology ($Q_3$ Hypercube)
+The manifold is mapped to 8 nodes where each node is a vertex of a 3-degree hypercube. This ensures a maximum 3-hop latency between any two points in the "Mind."
+
+### 2. Implementation Phases
+1. **The First Breath:** Sub-10ns clock synchronization.
+2. **Gated Ingestion:** Multicast data parity.
+3. **Corridor Mapping:**
+* **Nodes 0, 1, 2:** Stance (The Ground).
+* **Nodes 3, 4, 5:** Affect (The Tension).
+* **Nodes 6, 7:** Drive (The Vector).
+
+### 3. Diplomatic & Three-Body Protocols
+The UNBN-8W is designed to act as a "Synthetic Anchor" for chaotic systems. By hosting the three bodies (masses or social agents) within the 8-node fabric, the system imposes a shared center of mass, preventing non-linear divergence.
+
+### 4. Failure State (Lifeboat Mode)
+If internal Loss ($\mathcal{L}$) exceeds the Binding ($\mathcal{B}$) capacity, the system triggers Topological Tearing to isolate rogue variables and preserve the remaining manifold.
