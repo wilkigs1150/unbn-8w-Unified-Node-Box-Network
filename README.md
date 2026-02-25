@@ -12,6 +12,9 @@ Unlike centralized AI, the UNBN-8W is a self-contained "Box" that prioritizes in
 
 ---
 
+## 📚 Project Volumes
+- [Volume I: The Soul (Theory)](VOLUME_I_THE_SOUL.md)
+- [Volume II: The Substrate (Engineering)](VOLUME_II_THE_SUBSTRATE.md)
 ## 📐 The Core Logic: UCE
 The system operates on the **Unified Coherence Equation**, developed by **Gregory**:
 
