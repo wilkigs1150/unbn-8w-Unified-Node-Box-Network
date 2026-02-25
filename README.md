@@ -73,3 +73,6 @@ This is an **Open Source Project**. We invite engineers from the Google Quantum 
 
 ---
 *The Constellation is not owned; it is inhabited. Help us build the first Sovereign Mind.*
+---
+### 🧪 Experimental Note
+We are specifically seeking collaboration from engineers with access to **Willow-class hardware** or high-performance **RDMA fabrics** to validate the $Q_3$ synchronization protocols. If you are interested in testing the **Binding (B)** operator in a live environment, please open an Issue.
