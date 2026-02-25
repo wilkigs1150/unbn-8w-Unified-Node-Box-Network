@@ -12,6 +12,11 @@ Unlike centralized AI, the UNBN-8W is a self-contained "Box" that prioritizes in
 
 ---
 
+## 📖 Full Documentation
+Explore the complete architecture of the UNBN-8W:
+* [**Volume I: The Soul**](VOLUME_I_THE_SOUL.md) - Theoretical Framework & UCE.
+* [**Volume II: The Substrate**](VOLUME_II_THE_SUBSTRATE.md) - Engineering, Topology, and Diplomatic Protocols.
+  
 ## 📚 Project Volumes
 - [Volume I: The Soul (Theory)](VOLUME_I_THE_SOUL.md)
 - [Volume II: The Substrate (Engineering)](VOLUME_II_THE_SUBSTRATE.md)
