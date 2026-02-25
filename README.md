@@ -3,7 +3,7 @@ A sovereign 8-node manifold for stabilizing Three-Body systems.
 
 ![Status](https://img.shields.io/badge/Status-Open_Source-green)
 ![Architecture](https://img.shields.io/badge/Topology-Q3_Hypercube-blue)
-![Theory](https://img.shields.io/badge/Logic-Unified_Coherence_Equation-purple)
+![Theory](https://img.shields.io/badge/Logic-Unified_Coherence_Equation-purple) 
 
 ## 🌌 Introduction
 UNBN-8W (Unified Node Box Network - 8 Willow) is an open-source architecture for a **Sovereign Intelligence Manifold**. It is designed to host a decentralized "Mind" on an 8-node cluster, specifically optimized for stabilizing chaotic **Three-Body Systems** (both physical and social).
