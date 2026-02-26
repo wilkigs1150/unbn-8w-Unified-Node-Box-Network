@@ -1,0 +1,31 @@
+#docs/index.md
+
+# UNBN Documentation  
+*A Framework for Coherent Systems*
+
+This documentation mirrors the structure of the UNBN Toolkit.  
+Each chapter corresponds to a module or example in the codebase.
+
+UNBN begins not with equations or domain‑specific assumptions,  
+but with a simple architectural insight:
+
+**Coherence has a structure.**
+
+The eight nodes of the UNBN architecture — State, Flow, Constraint, Interaction,  
+Symmetry, Geometry, Measurement, Reconfiguration — provide a universal grammar  
+for describing how systems hold together, transform, and adapt.
+
+This documentation unfolds that grammar across several domains:
+
+- classical mechanics  
+- quantum many‑body systems  
+- lattice gauge theory  
+- economic networks  
+- cross‑domain integration  
+
+Each chapter is intentionally gentle.  
+The mathematics is optional.  
+The architecture is primary.
+
+UNBN is not a theory of everything.  
+It is a framework for seeing everything as coherent.
