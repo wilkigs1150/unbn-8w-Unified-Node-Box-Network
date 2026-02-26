@@ -1,0 +1,33 @@
+docs/architecture.md
+
+# The UNBN Architecture  
+### The Eight Nodes of Coherence
+
+UNBN provides a minimal structure for describing coherent systems.  
+It does not begin with particles, fields, or agents.  
+It begins with **relationships**.
+
+The architecture consists of eight functional nodes:
+
+1. **State** — what exists at a moment  
+2. **Flow** — how it changes  
+3. **Constraint** — what must remain consistent  
+4. **Interaction** — how parts influence one another  
+5. **Symmetry** — what stays the same through change  
+6. **Geometry** — how the system is arranged  
+7. **Measurement** — how coherence becomes visible  
+8. **Reconfiguration** — how the system adapts
+
+These nodes are not separate components.  
+They are **perspectives** on a single unfolding process.
+
+In Bohm’s language, they belong to the **implicate order**:  
+the deeper structure from which the explicate patterns of physics, economics,  
+and networks emerge.
+
+The UNBN Toolkit implements these nodes as abstract classes.  
+Domain‑specific systems — classical, quantum, gauge, economic —  
+are built by specializing these nodes.
+
+The architecture is simple.  
+The coherence it can express is not.
