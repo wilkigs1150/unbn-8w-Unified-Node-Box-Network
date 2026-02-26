@@ -1,0 +1,16 @@
+#docs/
+│
+├── index.md
+├── architecture.md
+├── chapter_classical.md
+├── chapter_sun_many_body.md
+├── chapter_lattice_gauge.md
+├── chapter_unbn_gauge.md
+├── chapter_economics.md
+├── chapter_gauge_economics.md
+├── time_storms.md
+├── world_architectures.md
+├── semantic_layer.md
+├── observer_dynamics.md
+├── cross_world_translation.md
+└── meta_lattice.md
