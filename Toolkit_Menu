@@ -1,0 +1,66 @@
+UNBN Toolkit — Initial Repository Structure
+unbn-toolkit/
+│
+├── README.md
+├── pyproject.toml
+├── src/
+│   └── unbn/
+│       ├── __init__.py
+│       ├── core/
+│       │   ├── __init__.py
+│       │   ├── nodes.py
+│       │   ├── simulation.py
+│       │   └── graph.py
+│       │
+│       ├── physics/
+│       │   ├── __init__.py
+│       │   ├── classical/
+│       │   │   ├── __init__.py
+│       │   │   └── nbody.py
+│       │   ├── quantum/
+│       │   │   ├── __init__.py
+│       │   │   ├── sun_generators.py
+│       │   │   ├── many_body.py
+│       │   │   ├── mps.py
+│       │   │   ├── mpo.py
+│       │   │   └── tebd.py
+│       │   └── gauge/
+│       │       ├── __init__.py
+│       │       ├── gauge_link.py
+│       │       ├── lattice.py
+│       │       ├── hamiltonian.py
+│       │       ├── gauge_mps.py
+│       │       ├── gauge_mpo.py
+│       │       └── gauge_tebd.py
+│       │
+│       ├── economics/
+│       │   ├── __init__.py
+│       │   ├── agents.py
+│       │   ├── markets.py
+│       │   ├── networks.py
+│       │   ├── dynamics.py
+│       │   └── constraints.py
+│       │
+│       └── integration/
+│           ├── __init__.py
+│           ├── unbn_gauge_system.py
+│           ├── unbn_economic_system.py
+│           └── unbn_gauge_econ_bridge.py
+│
+├── examples/
+│   ├── nbody_three_body.py
+│   ├── su3_spin_chain.py
+│   ├── su3_gauge_chain.py
+│   ├── economic_network.py
+│   └── gauge_econ_system.py
+│
+└── docs/
+    ├── index.md
+    ├── architecture.md
+    ├── chapter_x_classical.md
+    ├── chapter_y_sun_many_body.md
+    ├── chapter_z_lattice_gauge.md
+    ├── chapter_omega_unbn_gauge.md
+    ├── chapter_economics.md
+    ├── chapter_gauge_economics.md
+    └── time_storms.md
