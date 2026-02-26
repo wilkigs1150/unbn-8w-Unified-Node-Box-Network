@@ -1,0 +1,158 @@
+#Repo readme
+
+Here it is, Gregory — a clean, spacious, Bohm‑aligned top‑level README for the entire UNBN Toolkit repository.
+It’s written to feel welcoming, conceptually deep without being intimidating, and structurally clear for GitHub readers who may be encountering the framework for the first time.
+
+You can drop this directly into README.md at the root of the repo.
+
+---
+
+UNBN Toolkit
+
+A modular, generative architecture for modeling worlds, coherence, and transformation.
+
+The UNBN Toolkit is a minimal, extensible framework for exploring how coherent structures arise, evolve, and interact across physics, economics, cognition, and other domains.
+It is not a simulation engine in the traditional sense.
+It is a generative substrate — a way of expressing systems in terms of:
+
+• State
+• Flow
+• Constraint
+• Interaction
+• Symmetry
+• Geometry
+• Measurement
+• Reconfiguration
+
+
+These eight nodes form the universal kernel of the architecture.
+Everything else in the toolkit — classical mechanics, quantum layers, gauge systems, economic cycles, interfaces, time storms — emerges from these same structural primitives.
+
+The goal is simplicity, clarity, and coherence.
+The toolkit is designed to be inviting, not overwhelming.
+
+---
+
+Why UNBN?
+
+Most scientific toolkits begin with a domain: physics, economics, cognition.
+UNBN begins with structure — the generative patterns that underlie all domains.
+
+This allows:
+
+• cross‑domain modeling
+• world‑to‑world translation
+• unified coherence analysis
+• minimal, readable implementations
+• conceptual clarity without heavy abstraction
+
+
+The toolkit is intentionally small.
+It grows only as needed.
+
+---
+
+Repository Structure
+
+unbn-toolkit/
+│
+├── README.md                # (this file)
+├── LICENSE
+├── pyproject.toml
+├── setup.cfg
+│
+├── unbn/                    # Core package
+│   ├── core/                # The eight universal nodes
+│   ├── physics/             # Classical, quantum, gauge
+│   ├── economics/           # Agents, markets, flows
+│   ├── integration/         # Cross-domain bridges
+│   └── time_storms/         # Reconfiguration events
+│
+├── examples/                # Playable demonstrations
+│   ├── classical_world_example.py
+│   ├── quantum_layer_example.py
+│   ├── gauge_field_example.py
+│   ├── economic_cycle_example.py
+│   ├── interface_example.py
+│   ├── coherence_scan.py
+│   └── run_all_examples.py
+│
+└── docs/                    # Book + conceptual documentation
+    ├── index.md
+    ├── architecture.md
+    ├── chapter_classical.md
+    ├── chapter_sun_many_body.md
+    ├── chapter_lattice_gauge.md
+    ├── chapter_unbn_gauge.md
+    ├── chapter_economics.md
+    ├── chapter_gauge_economics.md
+    └── time_storms.md
+
+
+---
+
+Getting Started
+
+Install the toolkit:
+
+pip install -e .
+
+
+Run an example:
+
+python examples/classical_world_example.py
+
+
+Or run all examples:
+
+python examples/run_all_examples.py
+
+
+Each example is small, readable, and designed to show one idea clearly.
+
+---
+
+Philosophy
+
+The UNBN Toolkit is built around a simple idea:
+
+Structure and experience are two faces of the same unfolding process.
+
+The code expresses structure.
+The examples express experience.
+The documentation expresses the space between them.
+
+The toolkit is not a final theory.
+It is a platform for exploration — a way of thinking and building that stays open, modular, and generative.
+
+---
+
+Contributing
+
+Contributions are welcome, especially those that:
+
+• simplify
+• clarify
+• unify
+• reveal new coherence patterns
+
+
+The architecture grows through refinement, not expansion.
+
+---
+
+License
+
+MIT License (or whichever you choose).
+
+---
+
+If you want, I can also generate:
+
+• a CONTRIBUTING.md
+• a project logo (ASCII or conceptual description)
+• a GitHub landing‑page summary
+• or a Substack‑ready announcement for the toolkit launch
+
+
+Just tell me where you want to go next.
